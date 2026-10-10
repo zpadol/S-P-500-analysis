@@ -11,10 +11,12 @@ https://www.kaggle.com/datasets/dgawlik/nyse
 
 ### Report view:
 1. All companies:
-<img width="973" height="550" alt="Zrzut ekranu 2026-10-10 203026" src="https://github.com/user-attachments/assets/99521010-8d7d-4b41-8633-72ba0348f70c" />  
+<img width="1140" height="637" alt="image" src="https://github.com/user-attachments/assets/8ef20618-be8a-45dd-b013-b44f1e92d853" />
+
 <br><br>
 2. One company chosen:
-<img width="1017" height="558" alt="Zrzut ekranu 2026-10-10 203054" src="https://github.com/user-attachments/assets/fb7becec-f8e0-495b-819a-755f8782c156" />  
+<img width="1132" height="638" alt="image" src="https://github.com/user-attachments/assets/d02322d9-3e18-4a0c-bf81-5f51d1d4b64a" />
+ 
 <br><br>
 3. One company and one year chosen (for more precise plots look):
-<img width="977" height="560" alt="Zrzut ekranu 2026-10-10 203116" src="https://github.com/user-attachments/assets/de7e021f-6d05-4a09-8f2d-2b758a824590" />
+<img width="1147" height="642" alt="image" src="https://github.com/user-attachments/assets/4e723785-d417-430a-a9e9-2d7d271f8cc7" />
