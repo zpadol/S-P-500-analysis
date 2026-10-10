@@ -1,5 +1,7 @@
 ## Report view: 
 
+Link to a dataset:
+https://www.kaggle.com/datasets/dgawlik/nyse
 
 
 1. All companies:
