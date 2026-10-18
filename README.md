@@ -6,16 +6,25 @@ https://www.kaggle.com/datasets/dgawlik/nyse
 ### Steps:
 1. Collecting data and creating relationships.
 2. Preparing data (changing types and formats).
-3. Creating Key Measures: **CARG, historical P/E ratio, Revenue YoY, Price YoY** using DAX
-4. Visualization using various plots, including imported candlechart
+3. Creating Key Measures: **CARG (price), CARG (revenue) historical P/E ratio, Price YoY, MAX Daily Change and MAX Drawdown** using DAX
+4. Visualization using various plots, including imported candlechart:
+<br><br>
+   Key Visualizations:
+ - P/E Ratio and Close Price Line Chart: Enables the analysis of relationships and potential correlations between P/E and Close price fluctuations.
+ - CAGR Revenue and CAGR Price Column Charts: Placed next to each other to enable the analysis of potential correlations between business performance and stock valuation.
+ - MAX Drawdown: Highlights a key risk factor when investing in companies by showing maximum historical drops.
+ - CAGR Price by Sector: Indicates which sectors contributed to the growth of the S&P 500 index the most.
+   
 
 ### Report view:
 1. All companies:
-<img width="1140" height="637" alt="image" src="https://github.com/user-attachments/assets/8ef20618-be8a-45dd-b013-b44f1e92d853" />
+<img width="1157" height="642" alt="image" src="https://github.com/user-attachments/assets/1eb962e3-7abd-454b-a0ac-50dd34f6e22b" />
 
 <br><br>
 2. One company chosen:
-<img width="1132" height="638" alt="image" src="https://github.com/user-attachments/assets/d02322d9-3e18-4a0c-bf81-5f51d1d4b64a" />
+<img width="1173" height="645" alt="image" src="https://github.com/user-attachments/assets/346262a5-5e97-48be-9759-52ee1d55d214" />
+
+
  
 <br><br>
 3. One company and one year chosen (for more precise plots look):
